@@ -210,7 +210,7 @@
                     const lon = position.coords.longitude;
                     
                     try {
-                        const apiUrl = `http://api.weatherapi.com/v1/forecast.json?key=d7cadfbb7d2043bc81542310253108&q=${lat},${lon}&days=5&aqi=no&alerts=no`;
+                        const apiUrl = `https://api.weatherapi.com/v1/forecast.json?key=d7cadfbb7d2043bc81542310253108&q=${lat},${lon}&days=5&aqi=no&alerts=no`;
                         const response = await fetch(apiUrl);
                         
                         if (!response.ok) {
@@ -245,7 +245,7 @@
                 return;
             }
 
-            const apiUrl = `http://api.weatherapi.com/v1/forecast.json?key=d7cadfbb7d2043bc81542310253108&q=${encodeURIComponent(location)}&days=5&aqi=no&alerts=no`;
+            const apiUrl = `https://api.weatherapi.com/v1/forecast.json?key=d7cadfbb7d2043bc81542310253108&q=${encodeURIComponent(location)}&days=5&aqi=no&alerts=no`;
 
             try {
                 const response = await fetch(apiUrl);
@@ -322,5 +322,4 @@
         };
     </script>
 </body>
-
 </html>
