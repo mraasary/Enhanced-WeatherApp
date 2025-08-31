@@ -19,7 +19,7 @@ A modern, responsive weather application that provides real-time weather informa
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) *(Add your deployment link here)*
+[View Live Demo](https://mraasaryweatherapp.netlify.app/) *(Add your deployment link here)*
 
 ## 🛠️ Technologies Used
 
@@ -135,6 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Unsplash](https://unsplash.com/) for the stunning background images
 
 ⭐ **Star this repository if you found it helpful!**
+
 
 
 
