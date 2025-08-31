@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Aashish Chaudhary**
 
 - GitHub: [@mraasary](https://github.com/mraasary)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [aashish-chaudhary-699b92258](linkedin.com/in/aashish-chaudhary-699b92258)
 
 ## 🙏 Acknowledgments
 
@@ -140,5 +140,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Unsplash](https://unsplash.com/) for the stunning background images
 
 ⭐ **Star this repository if you found it helpful!**
+
 
 
